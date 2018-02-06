@@ -1,10 +1,11 @@
 TODO
 ====
 
-
+* add posts to the user profile (with 1 query)
 
 
 * rss feed
+
 
 
 
@@ -17,6 +18,7 @@ TODO
 
 DONE
 ====
+* tags
 * add edit image page (step 2)
 * add the edit link to the logged in user's posts
 * make the tags relate to the posts

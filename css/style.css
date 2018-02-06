@@ -17,15 +17,6 @@ main{
   clear: both;
 }
 
-
-/* .loading{
-  background: rgba(black, .2);
-  $:before{
-    content: 'loading...';
-    display: block;
-
-  } */
-
 .youlike .heartbutton{
   color: red;
 }

@@ -48,6 +48,7 @@ if( $row['user_id'] == $logged_in_user['user_id'] ){
            <p><?php echo $row['body']; ?></p>
           <span class="date"><?php echo convert_date($row['date']); ?></span>
           <span class="commentcount"><?php count_comments($row['post_id']); ?></span>
+          <span class="tags"><?php list_tags( $row['post_id'] ); ?></span>
       </article>
       <?php
     } //end while
