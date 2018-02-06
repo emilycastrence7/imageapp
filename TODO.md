@@ -6,7 +6,6 @@ TODO
 
 * rss feed
 
-* tags
 
 
 * add autocomplete user search
