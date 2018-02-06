@@ -1,0 +1,31 @@
+.sidebar{
+  float: right;
+  width: 30%;
+}
+
+ul li{
+  text-decoration: none;
+}
+
+
+main{
+  width: 40%;
+  float: left;
+}
+
+.footer{
+  clear: both;
+}
+
+
+/* .loading{
+  background: rgba(black, .2);
+  $:before{
+    content: 'loading...';
+    display: block;
+
+  } */
+
+.youlike .heartbutton{
+  color: red;
+}
